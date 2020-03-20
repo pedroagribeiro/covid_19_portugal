@@ -136,10 +136,30 @@ Error rate: **2.72%**
 
 Prediction for _day 15_: **469**
 
-Verified: 448
+Verified: **448**
 
-Error rate: 4.48%
+Error rate: **4.48%**
 
 ![15th day](graphics/day_15.png)
 
-Prediction for _day 16_: **631**
+Prediction for _day 16_: **639**
+
+Verified: **642**
+
+Error rate: **0.46%**
+
+![16th day](graphics/day_16.png)
+
+Prediction for _day 17_: **893**
+
+Verified: **785**
+
+Error rate: **13.76**
+
+![17th day](graphics/day_17.png)
+
+Prediction for _day 18_: **1108**
+
+Verified: **1002**
+
+Error rate: **10.6%**
